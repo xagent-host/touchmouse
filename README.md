@@ -6,6 +6,10 @@
 
 > 本项目以 **PolyForm Noncommercial License 1.0.0** 提供源码，仅授权协议允许的非商业用途。商业用途需另行取得权利人的授权。详见 [许可证](#许可证)。
 
+## 实机演示
+
+![Touchmouse 实机演示：在触摸屏上滑动和轻点操作鼠标](docs/images/demo.gif)
+
 ## 手势图解
 
 ![三种手势：单指滑动移动指针、单指轻点左键、双指轻点右键](docs/images/gestures.svg)
