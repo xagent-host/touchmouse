@@ -1,0 +1,21 @@
+# Rust build output and formatter backups
+/target/
+**/*.rs.bk
+
+# Local logs and temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+*~
+
+# Local environment variables (keep shareable examples)
+.env
+.env.*
+!.env.example
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Cargo.lock is intentionally tracked: this project builds an application.

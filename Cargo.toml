@@ -1,0 +1,8 @@
+[package]
+name = "touchmouse"
+version = "0.1.0"
+edition = "2021"
+license = "PolyForm-Noncommercial-1.0.0"
+
+[dependencies]
+libc = "=0.2.172"
